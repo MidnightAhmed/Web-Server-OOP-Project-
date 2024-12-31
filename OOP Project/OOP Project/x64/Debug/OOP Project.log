@@ -1,0 +1,4 @@
+﻿  TcpListener.cpp
+A:\3rd Sem\OOP\oop\OOP Project\TcpListener.cpp(19,19): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+A:\3rd Sem\OOP\oop\OOP Project\TcpListener.cpp(96,24): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  OOP Project.vcxproj -> A:\3rd Sem\OOP\oop\OOP Project\x64\Debug\OOP Project.exe
